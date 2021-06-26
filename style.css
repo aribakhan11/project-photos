@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+div{
+    margin-top: 15px;
+    
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.style-section{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: antiquewhite;
+}
+img{
+    height: 200px;
+    width: 300px;
+    
+}
+p{
+    font-family: cursive;
+    font-size: 15px;
+}
